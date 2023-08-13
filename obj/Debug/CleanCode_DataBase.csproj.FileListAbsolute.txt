@@ -1,0 +1,10 @@
+C:\Users\Ivan\Desktop\С#_Unity3D\Napilnik\CleanCode_DataBase\bin\Debug\CleanCode_DataBase.exe.config
+C:\Users\Ivan\Desktop\С#_Unity3D\Napilnik\CleanCode_DataBase\bin\Debug\CleanCode_DataBase.exe
+C:\Users\Ivan\Desktop\С#_Unity3D\Napilnik\CleanCode_DataBase\bin\Debug\CleanCode_DataBase.pdb
+C:\Users\Ivan\Desktop\С#_Unity3D\Napilnik\CleanCode_DataBase\obj\Debug\CleanCode_DataBase.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\С#_Unity3D\Napilnik\CleanCode_DataBase\obj\Debug\CleanCode_DataBase.Form1.resources
+C:\Users\Ivan\Desktop\С#_Unity3D\Napilnik\CleanCode_DataBase\obj\Debug\CleanCode_DataBase.Properties.Resources.resources
+C:\Users\Ivan\Desktop\С#_Unity3D\Napilnik\CleanCode_DataBase\obj\Debug\CleanCode_DataBase.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\С#_Unity3D\Napilnik\CleanCode_DataBase\obj\Debug\CleanCode_DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\С#_Unity3D\Napilnik\CleanCode_DataBase\obj\Debug\CleanCode_DataBase.exe
+C:\Users\Ivan\Desktop\С#_Unity3D\Napilnik\CleanCode_DataBase\obj\Debug\CleanCode_DataBase.pdb
